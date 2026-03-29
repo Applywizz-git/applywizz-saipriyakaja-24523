@@ -1,0 +1,86 @@
+{
+  "name": "SAIPRIYA K",
+  "profileImage": "/src/assets/profile_photo.png",
+  "location": "Delmar, NY",
+  "phone": "+1 (518) 528-0245",
+  "email": "priyakaja76@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/saipriya-kaja-432143109/",
+  "github": "https://github.com/saipriyak2",
+  "resumeLink": "/AWL-24523-21032026-1740-resume_saipriya-k_fsd.pdf",
+  "summary": "Full Stack Developer with 4 years of experience building scalable full stack web applications using ASP.NET Core, React.js, and SQL Server, delivering end-to-end solutions across frontend, backend, and database layers.\n\nImproved application performance by optimizing RESTful APIs, EF Core queries, and SQL Server indexing, achieving up to 20% faster response times and 40% faster data processing.\n\nDeveloped secure and user-focused features using JWT authentication and role-based access control, ensuring reliable system behavior and controlled access across multi-role applications.\n\nCollaborated with cross-functional teams in Agile environments to deliver production-ready solutions, reducing system issues by 35% and supporting consistent deployments using CI/CD pipelines on Azure.",
+  "technical_skills": {
+    "Programming Languages": ["C#", "JavaScript (ES6+)", "SQL"],
+    "Frontend": ["React.js", "HTML5", "CSS3", "Responsive Web Design"],
+    "Backend": [".NET Core", "ASP.NET Core (MVC, Web API)", "RESTful APIs", "EF Core", "LINQ"],
+    "Database": ["SQL Server", "Query Optimization", "Indexing", "Data Modeling"],
+    "Security": ["JWT Authentication", "RBAC", "ASP.NET Identity"],
+    "Testing": ["Unit Testing", "Integration Testing", "Swagger/OpenAPI"],
+    "DevOps": ["Git", "GitHub", "CI/CD", "Azure"],
+    "Practices": ["Full Stack", "Agile (Scrum)", "SDLC"]
+  },
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Neviton Softech Pvt Ltd",
+      "dates": "Mar 2022 - Aug 2024",
+      "highlights": [
+        "Built end-to-end web application features using ASP.NET Core, React.js, SQL Server",
+        "Improved API performance by 20% using async programming and EF Core optimization",
+        "Developed responsive UI using React, HTML5, CSS3",
+        "Implemented JWT + RBAC authentication",
+        "Increased report generation speed by 40%",
+        "Reduced production issues by 35%",
+        "Collaborated with product + UX teams",
+        "Developed unit + integration tests"
+      ]
+    },
+    {
+      "role": "Associate Engineering",
+      "company": "Bullhorn, Inc",
+      "dates": "Jan 2018 - Sept 2019",
+      "highlights": [
+        "Developed backend services with ASP.NET Core + EF Core",
+        "Built REST APIs and frontend integration",
+        "Created UI with HTML5, CSS3, JavaScript",
+        "Used Swagger/OpenAPI",
+        "Fixed defects across layers",
+        "Improved DB performance",
+        "Used Git + Agile"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "InLumin Healthcare E-commerce Web Application",
+      "technologies": ["ASP.NET Core", "SQL Server", "JavaScript"],
+      "details": [
+        "Built using ASP.NET Core, SQL Server, JavaScript",
+        "Implemented catalog + search using LINQ + EF Core",
+        "Added JWT RBAC security"
+      ]
+    },
+    {
+      "title": "TalentRover Recruitment Application",
+      "technologies": ["ASP.NET Core", "REST APIs"],
+      "details": [
+        "Improved backend services and fixed production issues",
+        "Built REST APIs with pagination + validation",
+        "Debugged system issues"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelors of Technology in Computer Science",
+      "institution": "Ballari Institute of Technology & Management, Karnataka, India"
+    }
+  ],
+  "certifications": [
+    "Full-Stack Web Development with React - Coursera",
+    "Meta Front-End Developer - Coursera",
+    "Meta Back-End Developer - Coursera",
+    "IBM Full Stack Developer - Coursera",
+    "Microsoft .NET Full Stack Developer - Coursera",
+    "Developing Cloud Apps with Node.js and React - Coursera"
+  ]
+}
